@@ -1,0 +1,82 @@
+[
+  {
+    "PlaceId": 2,
+    "EventName": "Star Wars: Threads of Destiny",
+    "Since": "2/19/2021",
+    "Until": "2/22/2021",
+    "EventTicketCount": 47,
+    "AvailableTicketCount": 47
+  },
+  {
+    "PlaceId": 0,
+    "EventName": "Near East, The (El Proximo Oriente)",
+    "Since": "2/17/2021",
+    "Until": "2/21/2021",
+    "EventTicketCount": 69,
+    "AvailableTicketCount": 69
+  },
+  {
+    "PlaceId": 2,
+    "EventName": "Tess",
+    "Since": "2/18/2021",
+    "Until": "2/20/2021",
+    "EventTicketCount": 83,
+    "AvailableTicketCount": 83
+  },
+  {
+    "PlaceId": 2,
+    "EventName": "Change of Habit",
+    "Since": "2/17/2021",
+    "Until": "2/22/2021",
+    "EventTicketCount": 2,
+    "AvailableTicketCount": 2
+  },
+  {
+    "PlaceId": 1,
+    "EventName": "Bamba, La",
+    "Since": "2/18/2021",
+    "Until": "2/22/2021",
+    "EventTicketCount": 20,
+    "AvailableTicketCount": 20
+  },
+  {
+    "PlaceId": 1,
+    "EventName": "Yellow Earth (Huang tu di)",
+    "Since": "2/18/2021",
+    "Until": "2/21/2021",
+    "EventTicketCount": 18,
+    "AvailableTicketCount": 18
+  },
+  {
+    "PlaceId": 0,
+    "EventName": "Igby Goes Down",
+    "Since": "2/19/2021",
+    "Until": "2/20/2021",
+    "EventTicketCount": 42,
+    "AvailableTicketCount": 42
+  },
+  {
+    "PlaceId": 2,
+    "EventName": "Browning Version, The",
+    "Since": "2/18/2021",
+    "Until": "2/20/2021",
+    "EventTicketCount": 50,
+    "AvailableTicketCount": 50
+  },
+  {
+    "PlaceId": 1,
+    "EventName": "Brokeback Mountain",
+    "Since": "2/18/2021",
+    "Until": "2/22/2021",
+    "EventTicketCount": 58,
+    "AvailableTicketCount": 58
+  },
+  {
+    "PlaceId": 0,
+    "EventName": "Little Witches",
+    "Since": "2/18/2021",
+    "Until": "2/20/2021",
+    "EventTicketCount": 27,
+    "AvailableTicketCount": 27
+  }
+]
